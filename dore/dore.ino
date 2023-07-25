@@ -219,7 +219,7 @@ void watchDore(void *)
             oldState = state;
         }
         oldState = state;
-        delay(100);
+        delay(1);
     }
 }
 
